@@ -12,8 +12,9 @@ Currently, I’m exploring **C** and **C++ programming**, with the goal of becom
 - 👯 I’m looking to collaborate on **beginner-friendly open-source projects**.
 - 💬 Ask me about **C/C++ basics or how to get started with programming**.
 ---
- ### **Connect with Me**
+### **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit-gupta-694862377/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachitgu11@gmail.com)
+
 
