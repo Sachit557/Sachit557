@@ -14,7 +14,7 @@ Currently, I’m exploring **C** and **C++ programming**, with the goal of becom
 ---
 ### 🚀 Currently Learning
 [![DSA](https://img.shields.io/badge/DSA-F7DF1E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wIAAgUBAmS5f88AAAAASUVORK5CYII=&logoColor=white)](https://en.wikipedia.org/wiki/Data_structures)
-[![Problem Solving](https://img.shields.io/badge/Problem_Solving-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/Sachit0007/))
 
 
 ### **Connect with Me**
