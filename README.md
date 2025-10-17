@@ -12,6 +12,11 @@ Currently, I’m exploring **C** and **C++ programming**, with the goal of becom
 - 👯 I’m looking to collaborate on **beginner-friendly open-source projects**.
 - 💬 Ask me about **C/C++ basics or how to get started with programming**.
 ---
+### 🚀 Currently Learning
+[![DSA](https://img.shields.io/badge/DSA-F7DF1E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wIAAgUBAmS5f88AAAAASUVORK5CYII=&logoColor=white)](https://en.wikipedia.org/wiki/Data_structures)
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+
 ### **Connect with Me**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachitgu11@gmail.com)
@@ -24,9 +29,5 @@ Currently, I’m exploring **C** and **C++ programming**, with the goal of becom
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-### 🚀 Currently Learning
-[![DSA](https://img.shields.io/badge/DSA-F7DF1E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wIAAgUBAmS5f88AAAAASUVORK5CYII=&logoColor=white)](https://en.wikipedia.org/wiki/Data_structures)
-[![Problem Solving](https://img.shields.io/badge/Problem_Solving-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 
