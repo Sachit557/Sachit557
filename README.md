@@ -13,7 +13,8 @@ Currently, I’m exploring **C** and **C++ programming**, with the goal of becom
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachitgu11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit-gupta-694862377/)
-[![Problem Solving](https://img.shields.io/badge/Problem_Solving-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/Sachit0007/))
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sachit0007/)
+
 ---
 
 ###  **Tech Stacks**
