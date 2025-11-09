@@ -6,11 +6,7 @@ Currently, I’m exploring **C** and **C++ programming**, with the goal of becom
 
 ---
 
-### What I'm Up To
-- 🔭 I’m currently working on improving my skills in **C programming** and learning **C++**.
-- 🌱 I’m currently exploring the fundamentals of **web development** — focusing on **HTML**, **CSS**, and **JavaScript**.
-- 👯 I’m looking to collaborate on **beginner-friendly open-source projects**.
-- 💬 Ask me about **C/C++ basics or how to get started with programming**.
+
 ---
 ### 🚀 Currently Learning
 [![DSA](https://img.shields.io/badge/DSA-F7DF1E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wIAAgUBAmS5f88AAAAASUVORK5CYII=&logoColor=white)](https://en.wikipedia.org/wiki/Data_structures)
