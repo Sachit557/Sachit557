@@ -2,7 +2,7 @@
 
 I'm a **first-year Computer Science student at PES University** passionate about **problem-solving** and **building cool software**.  
 I enjoy learning how technology works under the hood and love experimenting with new ideas.  
-Currently, I’m exploring **C** and **C++ programming**, with the goal of becoming proficient in a full development stack — preferably built around **C++**.
+Currently, I’m exploring **Python** ,**C** and **C++ programming**, with the goal of becoming proficient in a full development stack — preferably built around **C++**.
 
 
 
